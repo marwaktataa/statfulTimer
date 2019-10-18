@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/statfulTimer/static/css/main.15e842e4.chunk.css",
+    "main.js": "/statfulTimer/static/js/main.1f8cf23a.chunk.js",
+    "main.js.map": "/statfulTimer/static/js/main.1f8cf23a.chunk.js.map",
+    "runtime-main.js": "/statfulTimer/static/js/runtime-main.d5740b1e.js",
+    "runtime-main.js.map": "/statfulTimer/static/js/runtime-main.d5740b1e.js.map",
+    "static/js/2.4ec4caea.chunk.js": "/statfulTimer/static/js/2.4ec4caea.chunk.js",
+    "static/js/2.4ec4caea.chunk.js.map": "/statfulTimer/static/js/2.4ec4caea.chunk.js.map",
+    "index.html": "/statfulTimer/index.html",
+    "precache-manifest.8f509b4328fa3e4e2ee1f706df580772.js": "/statfulTimer/precache-manifest.8f509b4328fa3e4e2ee1f706df580772.js",
+    "service-worker.js": "/statfulTimer/service-worker.js",
+    "static/css/main.15e842e4.chunk.css.map": "/statfulTimer/static/css/main.15e842e4.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5740b1e.js",
+    "static/js/2.4ec4caea.chunk.js",
+    "static/css/main.15e842e4.chunk.css",
+    "static/js/main.1f8cf23a.chunk.js"
+  ]
+}
